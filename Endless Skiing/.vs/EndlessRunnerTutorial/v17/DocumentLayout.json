@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\K\u00EC 7\\PRU212\\Endless Skiing\\3D-Endless-Runner-in-Unity\\EndlessRunnerTutorial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5123C2-D4D9-AA85-803C-7DD7846CC281}|Assembly-CSharp.csproj|d:\\k\u00EC 7\\pru212\\endless skiing\\3d-endless-runner-in-unity\\endlessrunnertutorial\\assets\\scripts\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5123C2-D4D9-AA85-803C-7DD7846CC281}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5123C2-D4D9-AA85-803C-7DD7846CC281}|Assembly-CSharp.csproj|d:\\k\u00EC 7\\pru212\\endless skiing\\3d-endless-runner-in-unity\\endlessrunnertutorial\\assets\\scripts\\gameendmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5123C2-D4D9-AA85-803C-7DD7846CC281}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameendmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5123C2-D4D9-AA85-803C-7DD7846CC281}|Assembly-CSharp.csproj|D:\\K\u00EC 7\\PRU212\\Endless Skiing\\3D-Endless-Runner-in-Unity\\EndlessRunnerTutorial\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5123C2-D4D9-AA85-803C-7DD7846CC281}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5123C2-D4D9-AA85-803C-7DD7846CC281}|Assembly-CSharp.csproj|D:\\K\u00EC 7\\PRU212\\Endless Skiing\\3D-Endless-Runner-in-Unity\\EndlessRunnerTutorial\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5123C2-D4D9-AA85-803C-7DD7846CC281}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5123C2-D4D9-AA85-803C-7DD7846CC281}|Assembly-CSharp.csproj|D:\\K\u00EC 7\\PRU212\\Endless Skiing\\3D-Endless-Runner-in-Unity\\EndlessRunnerTutorial\\assets\\scripts\\groundtile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5123C2-D4D9-AA85-803C-7DD7846CC281}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\groundtile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5123C2-D4D9-AA85-803C-7DD7846CC281}|Assembly-CSharp.csproj|D:\\K\u00EC 7\\PRU212\\Endless Skiing\\3D-Endless-Runner-in-Unity\\EndlessRunnerTutorial\\assets\\scripts\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5123C2-D4D9-AA85-803C-7DD7846CC281}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5123C2-D4D9-AA85-803C-7DD7846CC281}|Assembly-CSharp.csproj|D:\\K\u00EC 7\\PRU212\\Endless Skiing\\3D-Endless-Runner-in-Unity\\EndlessRunnerTutorial\\assets\\scripts\\gamemenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5123C2-D4D9-AA85-803C-7DD7846CC281}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5123C2-D4D9-AA85-803C-7DD7846CC281}|Assembly-CSharp.csproj|D:\\K\u00EC 7\\PRU212\\Endless Skiing\\3D-Endless-Runner-in-Unity\\EndlessRunnerTutorial\\assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5123C2-D4D9-AA85-803C-7DD7846CC281}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5123C2-D4D9-AA85-803C-7DD7846CC281}|Assembly-CSharp.csproj|D:\\K\u00EC 7\\PRU212\\Endless Skiing\\3D-Endless-Runner-in-Unity\\EndlessRunnerTutorial\\assets\\scripts\\groundspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5123C2-D4D9-AA85-803C-7DD7846CC281}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\groundspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5123C2-D4D9-AA85-803C-7DD7846CC281}|Assembly-CSharp.csproj|D:\\K\u00EC 7\\PRU212\\Endless Skiing\\3D-Endless-Runner-in-Unity\\EndlessRunnerTutorial\\assets\\scripts\\obstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5123C2-D4D9-AA85-803C-7DD7846CC281}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\obstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PauseMenu.cs",
+              "DocumentMoniker": "D:\\K\u00EC 7\\PRU212\\Endless Skiing\\3D-Endless-Runner-in-Unity\\EndlessRunnerTutorial\\Assets\\Scripts\\PauseMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PauseMenu.cs",
+              "ToolTip": "D:\\K\u00EC 7\\PRU212\\Endless Skiing\\3D-Endless-Runner-in-Unity\\EndlessRunnerTutorial\\Assets\\Scripts\\PauseMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PauseMenu.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowCwAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T22:00:45.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\K\u00EC 7\\PRU212\\Endless Skiing\\3D-Endless-Runner-in-Unity\\EndlessRunnerTutorial\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "D:\\K\u00EC 7\\PRU212\\Endless Skiing\\3D-Endless-Runner-in-Unity\\EndlessRunnerTutorial\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAACQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T21:27:45.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameEndManager.cs",
+              "DocumentMoniker": "D:\\K\u00EC 7\\PRU212\\Endless Skiing\\3D-Endless-Runner-in-Unity\\EndlessRunnerTutorial\\Assets\\Scripts\\GameEndManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameEndManager.cs",
+              "ToolTip": "D:\\K\u00EC 7\\PRU212\\Endless Skiing\\3D-Endless-Runner-in-Unity\\EndlessRunnerTutorial\\Assets\\Scripts\\GameEndManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameEndManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T21:15:05.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameMenuManager.cs",
+              "DocumentMoniker": "D:\\K\u00EC 7\\PRU212\\Endless Skiing\\3D-Endless-Runner-in-Unity\\EndlessRunnerTutorial\\Assets\\Scripts\\GameMenuManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameMenuManager.cs",
+              "ToolTip": "D:\\K\u00EC 7\\PRU212\\Endless Skiing\\3D-Endless-Runner-in-Unity\\EndlessRunnerTutorial\\Assets\\Scripts\\GameMenuManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameMenuManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T20:29:36.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "D:\\K\u00EC 7\\PRU212\\Endless Skiing\\3D-Endless-Runner-in-Unity\\EndlessRunnerTutorial\\Assets\\Scripts\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraFollow.cs",
+              "ToolTip": "D:\\K\u00EC 7\\PRU212\\Endless Skiing\\3D-Endless-Runner-in-Unity\\EndlessRunnerTutorial\\Assets\\Scripts\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraFollow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T19:05:13.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Coin.cs",
+              "DocumentMoniker": "D:\\K\u00EC 7\\PRU212\\Endless Skiing\\3D-Endless-Runner-in-Unity\\EndlessRunnerTutorial\\Assets\\Scripts\\Coin.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Coin.cs",
+              "ToolTip": "D:\\K\u00EC 7\\PRU212\\Endless Skiing\\3D-Endless-Runner-in-Unity\\EndlessRunnerTutorial\\Assets\\Scripts\\Coin.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Coin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T19:05:12.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GroundSpawner.cs",
+              "DocumentMoniker": "D:\\K\u00EC 7\\PRU212\\Endless Skiing\\3D-Endless-Runner-in-Unity\\EndlessRunnerTutorial\\Assets\\Scripts\\GroundSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GroundSpawner.cs",
+              "ToolTip": "D:\\K\u00EC 7\\PRU212\\Endless Skiing\\3D-Endless-Runner-in-Unity\\EndlessRunnerTutorial\\Assets\\Scripts\\GroundSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GroundSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T19:05:11.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GroundTile.cs",
+              "DocumentMoniker": "D:\\K\u00EC 7\\PRU212\\Endless Skiing\\3D-Endless-Runner-in-Unity\\EndlessRunnerTutorial\\Assets\\Scripts\\GroundTile.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GroundTile.cs",
+              "ToolTip": "D:\\K\u00EC 7\\PRU212\\Endless Skiing\\3D-Endless-Runner-in-Unity\\EndlessRunnerTutorial\\Assets\\Scripts\\GroundTile.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GroundTile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T19:05:11.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "D:\\K\u00EC 7\\PRU212\\Endless Skiing\\3D-Endless-Runner-in-Unity\\EndlessRunnerTutorial\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "D:\\K\u00EC 7\\PRU212\\Endless Skiing\\3D-Endless-Runner-in-Unity\\EndlessRunnerTutorial\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowEgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T19:05:10.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Obstacle.cs",
+              "DocumentMoniker": "D:\\K\u00EC 7\\PRU212\\Endless Skiing\\3D-Endless-Runner-in-Unity\\EndlessRunnerTutorial\\Assets\\Scripts\\Obstacle.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Obstacle.cs",
+              "ToolTip": "D:\\K\u00EC 7\\PRU212\\Endless Skiing\\3D-Endless-Runner-in-Unity\\EndlessRunnerTutorial\\Assets\\Scripts\\Obstacle.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Obstacle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T19:01:01.322Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
