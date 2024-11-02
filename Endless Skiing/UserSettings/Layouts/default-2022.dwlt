@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 989
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Game
   m_RootView: {fileID: 5}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -199,7 +199,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 77
+  controlID: 36
   draggingID: 0
 --- !u!114 &9
 MonoBehaviour:
@@ -248,8 +248,8 @@ MonoBehaviour:
     y: 0
     width: 403
     height: 939
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -675,7 +675,7 @@ MonoBehaviour:
   m_Position:
     m_Target: {x: 1103.6206, y: 602.0242, z: 22.387938}
     speed: 2
-    m_Value: {x: 1103.6206, y: 602.0242, z: 22.387938}
+    m_Value: {x: 34.447758, y: -13.877771, z: 6.792703}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -723,11 +723,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.033301216, y: -0.012896181, z: 0.00042711213, w: -0.9993728}
     speed: 2
-    m_Value: {x: -0.033301216, y: -0.012896181, z: 0.00042711216, w: -0.9993728}
+    m_Value: {x: -0.030211575, y: 0.07848059, z: -0.0023791937, w: -0.9964549}
   m_Size:
     m_Target: 682.94543
     speed: 2
-    m_Value: 682.94543
+    m_Value: 3.8741817
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -926,7 +926,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 3ef3ffff8ef3ffffaef4ffff5ef5ffff84f5ffff30fbffff
+      m_ExpandedIDs: 08cafeff5acafeff76cbfeff22ccfeff44ccfeff1afaffff30fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -996,7 +996,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Packages/com.unity.collab-proxy
+    - Assets/Lowpoly Forest Pack Winter/Prefabs
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -1012,7 +1012,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: d8610000
     m_LastClickedID: 25048
-    m_ExpandedIDs: 00000000184e00001a4e00001c4e00001e4e0000204e0000224e0000244e0000264e0000284e0000
+    m_ExpandedIDs: 000000000e4e0000104e0000124e0000144e0000164e0000184e00001a4e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1037,10 +1037,10 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_AssetTreeState:
-    scrollPos: {x: 0, y: 387}
+    scrollPos: {x: 0, y: 949.50024}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff00000000184e00001a4e00001c4e0000244e0000264e0000284e0000584e0000ffffff7f
+    m_ExpandedIDs: ffffffff000000000e4e0000104e0000124e0000144e0000164e0000184e00001a4e0000364e00003c4e00004c500000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
