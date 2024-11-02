@@ -1,9 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\K\u00EC 7\\PRU212\\Endless Skiing\\Endless Skiing\\",
+  "WorkspaceRootPath": "C:\\Users\\Minh Khoi\\PRU212---Endless-Skiing\\Endless Skiing\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{42B5BA81-89E6-84A7-53AB-D6F8C9A0EBAA}|Assembly-CSharp.csproj|d:\\k\u00EC 7\\pru212\\endless skiing\\endless skiing\\assets\\scripts\\groundspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{42B5BA81-89E6-84A7-53AB-D6F8C9A0EBAA}|Assembly-CSharp.csproj|c:\\users\\minh khoi\\pru212---endless-skiing\\endless skiing\\assets\\scripts\\obstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B5BA81-89E6-84A7-53AB-D6F8C9A0EBAA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\obstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5BA81-89E6-84A7-53AB-D6F8C9A0EBAA}|Assembly-CSharp.csproj|c:\\users\\minh khoi\\pru212---endless-skiing\\endless skiing\\assets\\scripts\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B5BA81-89E6-84A7-53AB-D6F8C9A0EBAA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5BA81-89E6-84A7-53AB-D6F8C9A0EBAA}|Assembly-CSharp.csproj|C:\\Users\\Minh Khoi\\PRU212---Endless-Skiing\\Endless Skiing\\assets\\scripts\\groundspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42B5BA81-89E6-84A7-53AB-D6F8C9A0EBAA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\groundspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,28 +22,57 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Obstacle.cs",
+              "DocumentMoniker": "C:\\Users\\Minh Khoi\\PRU212---Endless-Skiing\\Endless Skiing\\Assets\\Scripts\\Obstacle.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Obstacle.cs",
+              "ToolTip": "C:\\Users\\Minh Khoi\\PRU212---Endless-Skiing\\Endless Skiing\\Assets\\Scripts\\Obstacle.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Obstacle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T04:56:30.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Coin.cs",
+              "DocumentMoniker": "C:\\Users\\Minh Khoi\\PRU212---Endless-Skiing\\Endless Skiing\\Assets\\Scripts\\Coin.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Coin.cs",
+              "ToolTip": "C:\\Users\\Minh Khoi\\PRU212---Endless-Skiing\\Endless Skiing\\Assets\\Scripts\\Coin.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Coin.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T02:59:13.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "GroundSpawner.cs",
-              "DocumentMoniker": "D:\\K\u00EC 7\\PRU212\\Endless Skiing\\Endless Skiing\\Assets\\Scripts\\GroundSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\Minh Khoi\\PRU212---Endless-Skiing\\Endless Skiing\\Assets\\Scripts\\GroundSpawner.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GroundSpawner.cs",
-              "ToolTip": "D:\\K\u00EC 7\\PRU212\\Endless Skiing\\Endless Skiing\\Assets\\Scripts\\GroundSpawner.cs",
+              "ToolTip": "C:\\Users\\Minh Khoi\\PRU212---Endless-Skiing\\Endless Skiing\\Assets\\Scripts\\GroundSpawner.cs",
               "RelativeToolTip": "Assets\\Scripts\\GroundSpawner.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T22:06:04.803Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T22:06:04.803Z"
             }
           ]
         }
