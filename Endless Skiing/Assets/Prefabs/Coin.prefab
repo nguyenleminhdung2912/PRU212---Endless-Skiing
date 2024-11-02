@@ -49,7 +49,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   turnSpeed: 90
-  pickupSound: {fileID: 0}
+  pickupSound: {fileID: 8300000, guid: 99d95e6751843194091c0f546bc5445f, type: 3}
 --- !u!33 &681084056512101513
 MeshFilter:
   m_ObjectHideFlags: 0

@@ -131,27 +131,27 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1604}
+      Script: {instanceID: 1602}
     - Class: 114
-      Script: {instanceID: 1816}
+      Script: {instanceID: 1814}
     - Class: 114
-      Script: {instanceID: 1850}
+      Script: {instanceID: 1848}
     - Class: 114
-      Script: {instanceID: 2104}
+      Script: {instanceID: 2102}
     - Class: 114
-      Script: {instanceID: 2224}
+      Script: {instanceID: 2222}
     - Class: 114
-      Script: {instanceID: 2392}
+      Script: {instanceID: 2390}
     - Class: 114
-      Script: {instanceID: 2504}
+      Script: {instanceID: 2502}
     - Class: 114
-      Script: {instanceID: 2542}
+      Script: {instanceID: 2540}
     - Class: 114
-      Script: {instanceID: 2664}
+      Script: {instanceID: 2662}
     - Class: 114
-      Script: {instanceID: 2842}
+      Script: {instanceID: 2840}
     - Class: 114
-      Script: {instanceID: 2934}
+      Script: {instanceID: 2932}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -202,27 +202,27 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1604}
+      Script: {instanceID: 1602}
     - Class: 114
-      Script: {instanceID: 1816}
+      Script: {instanceID: 1814}
     - Class: 114
-      Script: {instanceID: 2096}
+      Script: {instanceID: 2094}
     - Class: 114
-      Script: {instanceID: 2104}
+      Script: {instanceID: 2102}
     - Class: 114
-      Script: {instanceID: 2224}
+      Script: {instanceID: 2222}
     - Class: 114
-      Script: {instanceID: 2392}
+      Script: {instanceID: 2390}
     - Class: 114
-      Script: {instanceID: 2504}
+      Script: {instanceID: 2502}
     - Class: 114
-      Script: {instanceID: 2542}
+      Script: {instanceID: 2540}
     - Class: 114
-      Script: {instanceID: 2664}
+      Script: {instanceID: 2662}
     - Class: 114
-      Script: {instanceID: 2842}
+      Script: {instanceID: 2840}
     - Class: 114
-      Script: {instanceID: 2934}
+      Script: {instanceID: 2932}
     - Class: 114
       Script: {instanceID: 3504}
     - Class: 114
@@ -289,37 +289,37 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1604}
+      Script: {instanceID: 1602}
     - Class: 114
-      Script: {instanceID: 1754}
+      Script: {instanceID: 1752}
     - Class: 114
-      Script: {instanceID: 1768}
+      Script: {instanceID: 1766}
     - Class: 114
-      Script: {instanceID: 1816}
+      Script: {instanceID: 1814}
     - Class: 114
-      Script: {instanceID: 1924}
+      Script: {instanceID: 1922}
     - Class: 114
-      Script: {instanceID: 2104}
+      Script: {instanceID: 2102}
     - Class: 114
-      Script: {instanceID: 2182}
+      Script: {instanceID: 2180}
     - Class: 114
-      Script: {instanceID: 2234}
+      Script: {instanceID: 2232}
     - Class: 114
-      Script: {instanceID: 2392}
+      Script: {instanceID: 2390}
     - Class: 114
-      Script: {instanceID: 2504}
+      Script: {instanceID: 2502}
     - Class: 114
-      Script: {instanceID: 2508}
+      Script: {instanceID: 2506}
     - Class: 114
-      Script: {instanceID: 2542}
+      Script: {instanceID: 2540}
     - Class: 114
-      Script: {instanceID: 2558}
+      Script: {instanceID: 2556}
     - Class: 114
-      Script: {instanceID: 2664}
+      Script: {instanceID: 2662}
     - Class: 114
-      Script: {instanceID: 2842}
+      Script: {instanceID: 2840}
     - Class: 114
-      Script: {instanceID: 2934}
+      Script: {instanceID: 2932}
     - Class: 114
       Script: {instanceID: 3862}
     - Class: 115
@@ -343,12 +343,6 @@ ScriptsOnlyBuild:
     - Class: 850595691
       Script: {instanceID: 0}
   scriptHashData:
-  - hash:
-      serializedVersion: 2
-      Hash: d41ab9b5ea92474f9c0a6937a0607ce1
-    assemblyName: UnityEngine.UI
-    namespaceName: UnityEngine.UI
-    className: ContentSizeFitter
   - hash:
       serializedVersion: 2
       Hash: 55060a7bf226ac385ce19ebd450f199f
@@ -729,6 +723,12 @@ ScriptsOnlyBuild:
     className: TMP_FrameRateCounter
   - hash:
       serializedVersion: 2
+      Hash: d41ab9b5ea92474f9c0a6937a0607ce1
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: ContentSizeFitter
+  - hash:
+      serializedVersion: 2
       Hash: 20a120e55ad3ab65556328d5fd8309dd
     assemblyName: UnityEngine.UI
     namespaceName: UnityEngine.UI
@@ -1074,4 +1074,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/GameMenuScene.unity
   - Assets/Scenes/GameScene.unity
   - Assets/Scenes/GameEndScene.unity
-  playerPath: C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame.exe
+  playerPath: "D:/K\xEC 7/PRU212/Endless Skiing/Build/EndlessSkiingGame.exe"
