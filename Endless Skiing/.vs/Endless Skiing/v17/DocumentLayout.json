@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\K\u00EC 7\\PRU212\\Endless Skiing\\Endless Skiing\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{42B5BA81-89E6-84A7-53AB-D6F8C9A0EBAA}|Assembly-CSharp.csproj|d:\\k\u00EC 7\\pru212\\endless skiing\\endless skiing\\assets\\scripts\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42B5BA81-89E6-84A7-53AB-D6F8C9A0EBAA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42B5BA81-89E6-84A7-53AB-D6F8C9A0EBAA}|Assembly-CSharp.csproj|d:\\k\u00EC 7\\pru212\\endless skiing\\endless skiing\\assets\\scripts\\groundtile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{42B5BA81-89E6-84A7-53AB-D6F8C9A0EBAA}|Assembly-CSharp.csproj|D:\\K\u00EC 7\\PRU212\\Endless Skiing\\Endless Skiing\\assets\\scripts\\groundtile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42B5BA81-89E6-84A7-53AB-D6F8C9A0EBAA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\groundtile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{42B5BA81-89E6-84A7-53AB-D6F8C9A0EBAA}|Assembly-CSharp.csproj|D:\\K\u00EC 7\\PRU212\\Endless Skiing\\Endless Skiing\\assets\\scripts\\groundspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42B5BA81-89E6-84A7-53AB-D6F8C9A0EBAA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\groundspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B5BA81-89E6-84A7-53AB-D6F8C9A0EBAA}|Assembly-CSharp.csproj|d:\\k\u00EC 7\\pru212\\endless skiing\\endless skiing\\assets\\scripts\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B5BA81-89E6-84A7-53AB-D6F8C9A0EBAA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +30,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Coin.cs",
               "DocumentMoniker": "D:\\K\u00EC 7\\PRU212\\Endless Skiing\\Endless Skiing\\Assets\\Scripts\\Coin.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Coin.cs",
@@ -43,28 +43,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "GroundTile.cs",
               "DocumentMoniker": "D:\\K\u00EC 7\\PRU212\\Endless Skiing\\Endless Skiing\\Assets\\Scripts\\GroundTile.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GroundTile.cs",
               "ToolTip": "D:\\K\u00EC 7\\PRU212\\Endless Skiing\\Endless Skiing\\Assets\\Scripts\\GroundTile.cs",
               "RelativeToolTip": "Assets\\Scripts\\GroundTile.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAArwB0AAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-02T05:46:37.017Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "GroundSpawner.cs",
               "DocumentMoniker": "D:\\K\u00EC 7\\PRU212\\Endless Skiing\\Endless Skiing\\Assets\\Scripts\\GroundSpawner.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GroundSpawner.cs",
               "ToolTip": "D:\\K\u00EC 7\\PRU212\\Endless Skiing\\Endless Skiing\\Assets\\Scripts\\GroundSpawner.cs",
               "RelativeToolTip": "Assets\\Scripts\\GroundSpawner.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T22:06:04.803Z"
+              "WhenOpened": "2024-11-01T22:06:04.803Z",
+              "EditorCaption": ""
             }
           ]
         }

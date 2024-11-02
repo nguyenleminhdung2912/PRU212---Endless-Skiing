@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\K\u00EC 7\\PRU212\\Endless Skiing\\Endless Skiing\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{42B5BA81-89E6-84A7-53AB-D6F8C9A0EBAA}|Assembly-CSharp.csproj|d:\\k\u00EC 7\\pru212\\endless skiing\\endless skiing\\assets\\scripts\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B5BA81-89E6-84A7-53AB-D6F8C9A0EBAA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{42B5BA81-89E6-84A7-53AB-D6F8C9A0EBAA}|Assembly-CSharp.csproj|d:\\k\u00EC 7\\pru212\\endless skiing\\endless skiing\\assets\\scripts\\groundtile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42B5BA81-89E6-84A7-53AB-D6F8C9A0EBAA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\groundtile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,19 +31,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Coin.cs",
+              "DocumentMoniker": "D:\\K\u00EC 7\\PRU212\\Endless Skiing\\Endless Skiing\\Assets\\Scripts\\Coin.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Coin.cs",
+              "ToolTip": "D:\\K\u00EC 7\\PRU212\\Endless Skiing\\Endless Skiing\\Assets\\Scripts\\Coin.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Coin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T06:02:56.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "GroundTile.cs",
               "DocumentMoniker": "D:\\K\u00EC 7\\PRU212\\Endless Skiing\\Endless Skiing\\Assets\\Scripts\\GroundTile.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GroundTile.cs",
               "ToolTip": "D:\\K\u00EC 7\\PRU212\\Endless Skiing\\Endless Skiing\\Assets\\Scripts\\GroundTile.cs",
               "RelativeToolTip": "Assets\\Scripts\\GroundTile.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-02T05:46:37.017Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "GroundSpawner.cs",
               "DocumentMoniker": "D:\\K\u00EC 7\\PRU212\\Endless Skiing\\Endless Skiing\\Assets\\Scripts\\GroundSpawner.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GroundSpawner.cs",

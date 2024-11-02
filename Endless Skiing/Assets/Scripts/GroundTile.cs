@@ -22,8 +22,12 @@ public class GroundTile : MonoBehaviour {
         int obstacleSpawnIndex = Random.Range(2, 5);
         Transform spawnPoint = transform.GetChild(obstacleSpawnIndex).transform;
 
-        // Spawn the obstace at the position
-        Instantiate(obstaclePrefab, spawnPoint.position, Quaternion.identity, transform);
+        // Adjust the spawn position to be 0.5 units lower
+        Vector3 spawnPosition = spawnPoint.position;
+        spawnPosition.y -= 0.5f;
+
+        // Spawn the obstacle at the adjusted position
+        Instantiate(obstaclePrefab, spawnPosition, Quaternion.identity, transform);
     }
 
 
