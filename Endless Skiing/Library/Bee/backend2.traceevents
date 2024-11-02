@@ -1,227 +1,330 @@
 { "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
-,{ "pid":12345, "tid":0, "ts":1730498843317763, "dur":18543, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1730498843336315, "dur":51, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1730498843336405, "dur":466, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1730498843336891, "dur":2893, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1730498843339785, "dur":167453, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1730498843507239, "dur":371, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1730498843507829, "dur":1134, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
-,{ "pid":12345, "tid":1, "ts":1730498843337583, "dur":2327, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1730498843339911, "dur":3344, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1730498843343276, "dur":106, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win32_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
-,{ "pid":12345, "tid":1, "ts":1730498843343259, "dur":124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/K 7/PRU212/Endless Skiing/Build/MonoBleedingEdge/etc/mono/4.0/web.config" }}
-,{ "pid":12345, "tid":1, "ts":1730498843343432, "dur":71, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D:/K 7/PRU212/Endless Skiing/Build/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
-,{ "pid":12345, "tid":1, "ts":1730498843363908, "dur":3699, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/System.IO.Compression.dll" }}
-,{ "pid":12345, "tid":1, "ts":1730498843367647, "dur":8572, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.ARModule.dll" }}
-,{ "pid":12345, "tid":1, "ts":1730498843376242, "dur":131020, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1730498843337546, "dur":2341, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1730498843339888, "dur":3340, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1730498843343279, "dur":94, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1730498843362683, "dur":3813, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/System.Runtime.Serialization.dll" }}
-,{ "pid":12345, "tid":2, "ts":1730498843366532, "dur":3483, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1730498843377473, "dur":76, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1730498843370050, "dur":7521, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/RuntimeInitializeOnLoads.json" }}
-,{ "pid":12345, "tid":2, "ts":1730498843377588, "dur":129672, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1730498843337292, "dur":2513, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1730498843339808, "dur":282, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1730498843340091, "dur":3139, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1730498843343274, "dur":104, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1730498843344295, "dur":1718, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/System.Xml.Linq.dll" }}
-,{ "pid":12345, "tid":3, "ts":1730498843346054, "dur":952, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/System.EnterpriseServices.dll" }}
-,{ "pid":12345, "tid":3, "ts":1730498843347034, "dur":739, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/System.Data.DataSetExtensions.dll" }}
-,{ "pid":12345, "tid":3, "ts":1730498843347810, "dur":744, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/System.Configuration.dll" }}
-,{ "pid":12345, "tid":3, "ts":1730498843348580, "dur":847, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/Mono.Security.dll" }}
-,{ "pid":12345, "tid":3, "ts":1730498843349459, "dur":985, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/Unity.TextMeshPro.dll" }}
-,{ "pid":12345, "tid":3, "ts":1730498843350479, "dur":872, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/Assembly-CSharp.dll" }}
-,{ "pid":12345, "tid":3, "ts":1730498843351427, "dur":1697, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1730498843353180, "dur":1576, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.VFXModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1730498843354809, "dur":1313, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1730498843356161, "dur":1135, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.UIModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1730498843357334, "dur":2306, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1730498843359690, "dur":1698, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1730498843361426, "dur":1354, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1730498843362833, "dur":3784, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.IMGUIModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1730498843366651, "dur":11852, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.AudioModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1730498843378533, "dur":128718, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1730498843337479, "dur":2384, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1730498843339867, "dur":273, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1730498843340140, "dur":3145, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1730498843343286, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/K 7/PRU212/Endless Skiing/Build/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
-,{ "pid":12345, "tid":4, "ts":1730498843361900, "dur":1693, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame.exe" }}
-,{ "pid":12345, "tid":4, "ts":1730498843363631, "dur":3499, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.HotReloadModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1730498843367167, "dur":6204, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.AnimationModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1730498843373422, "dur":2047, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1730498843375480, "dur":1401, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/globalgamemanagers" }}
-,{ "pid":12345, "tid":4, "ts":1730498843376896, "dur":130351, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1730498843337538, "dur":2344, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1730498843339883, "dur":3350, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1730498843343292, "dur":114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/K 7/PRU212/Endless Skiing/Build/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
-,{ "pid":12345, "tid":5, "ts":1730498843362346, "dur":4257, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/mscorlib.dll" }}
-,{ "pid":12345, "tid":5, "ts":1730498843366638, "dur":3838, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.ClothModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1730498843370509, "dur":2238, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/resources.assets.resS" }}
-,{ "pid":12345, "tid":5, "ts":1730498843372814, "dur":9665, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/level0.resS" }}
-,{ "pid":12345, "tid":5, "ts":1730498843382505, "dur":124761, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1730498843337413, "dur":2416, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1730498843339834, "dur":267, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1730498843340101, "dur":3155, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1730498843343283, "dur":160, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1730498843354876, "dur":260, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1730498843352156, "dur":2993, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/System.Xml.dll" }}
-,{ "pid":12345, "tid":6, "ts":1730498843355222, "dur":1469, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1730498843356727, "dur":2235, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1730498843359009, "dur":1028, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.SubstanceModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1730498843360073, "dur":1121, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1730498843361234, "dur":2421, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1730498843363699, "dur":3440, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.GameCenterModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1730498843367176, "dur":3401, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1730498843373384, "dur":2040, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1730498843370607, "dur":4844, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/resources.assets" }}
-,{ "pid":12345, "tid":6, "ts":1730498843375496, "dur":131743, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1730498843337338, "dur":2475, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1730498843339817, "dur":276, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1730498843340094, "dur":3181, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1730498843343281, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/K 7/PRU212/Endless Skiing/Build/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
-,{ "pid":12345, "tid":7, "ts":1730498843344297, "dur":2684, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/System.dll" }}
-,{ "pid":12345, "tid":7, "ts":1730498843347014, "dur":1628, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/System.Data.dll" }}
-,{ "pid":12345, "tid":7, "ts":1730498843348686, "dur":881, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/netstandard.dll" }}
-,{ "pid":12345, "tid":7, "ts":1730498843349598, "dur":897, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/Unity.AI.Navigation.dll" }}
-,{ "pid":12345, "tid":7, "ts":1730498843350543, "dur":816, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.dll" }}
-,{ "pid":12345, "tid":7, "ts":1730498843351422, "dur":1129, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.WindModule.dll" }}
-,{ "pid":12345, "tid":7, "ts":1730498843352612, "dur":1700, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.VehiclesModule.dll" }}
-,{ "pid":12345, "tid":7, "ts":1730498843354390, "dur":1197, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
-,{ "pid":12345, "tid":7, "ts":1730498843355621, "dur":1332, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
-,{ "pid":12345, "tid":7, "ts":1730498843356992, "dur":1953, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
-,{ "pid":12345, "tid":7, "ts":1730498843359007, "dur":1229, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
-,{ "pid":12345, "tid":7, "ts":1730498843360271, "dur":1428, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.ProfilerModule.dll" }}
-,{ "pid":12345, "tid":7, "ts":1730498843361736, "dur":2719, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.LocalizationModule.dll" }}
-,{ "pid":12345, "tid":7, "ts":1730498843364497, "dur":3128, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.GIModule.dll" }}
-,{ "pid":12345, "tid":7, "ts":1730498843367729, "dur":4857, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.AIModule.dll" }}
-,{ "pid":12345, "tid":7, "ts":1730498843373661, "dur":1837, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1730498843372627, "dur":2885, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/level1" }}
-,{ "pid":12345, "tid":7, "ts":1730498843375542, "dur":131694, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1730498843337401, "dur":2421, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1730498843339826, "dur":252, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1730498843340078, "dur":3162, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1730498843343245, "dur":143, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/K 7/PRU212/Endless Skiing/Build/MonoBleedingEdge/etc/mono/browscap.ini" }}
-,{ "pid":12345, "tid":8, "ts":1730498843343402, "dur":81, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D:/K 7/PRU212/Endless Skiing/Build/MonoBleedingEdge/etc/mono/browscap.ini" }}
-,{ "pid":12345, "tid":8, "ts":1730498843362863, "dur":3395, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/System.Numerics.dll" }}
-,{ "pid":12345, "tid":8, "ts":1730498843366295, "dur":2905, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
-,{ "pid":12345, "tid":8, "ts":1730498843369242, "dur":8027, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/sharedassets1.assets" }}
-,{ "pid":12345, "tid":8, "ts":1730498843377286, "dur":129955, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1730498843337441, "dur":2400, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1730498843339846, "dur":311, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1730498843340158, "dur":3088, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1730498843343288, "dur":105, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1730498843351921, "dur":1919, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Resources/unity default resources" }}
-,{ "pid":12345, "tid":9, "ts":1730498843355108, "dur":51, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1730498843353882, "dur":1354, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
-,{ "pid":12345, "tid":9, "ts":1730498843355326, "dur":1126, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
-,{ "pid":12345, "tid":9, "ts":1730498843356479, "dur":1252, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.TilemapModule.dll" }}
-,{ "pid":12345, "tid":9, "ts":1730498843357792, "dur":1803, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.TLSModule.dll" }}
-,{ "pid":12345, "tid":9, "ts":1730498843359633, "dur":1351, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
-,{ "pid":12345, "tid":9, "ts":1730498843361019, "dur":1247, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
-,{ "pid":12345, "tid":9, "ts":1730498843362303, "dur":2452, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.InputModule.dll" }}
-,{ "pid":12345, "tid":9, "ts":1730498843364794, "dur":3059, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
-,{ "pid":12345, "tid":9, "ts":1730498843367999, "dur":1499, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/sharedassets2.assets" }}
-,{ "pid":12345, "tid":9, "ts":1730498843369532, "dur":7969, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/sharedassets0.resource" }}
-,{ "pid":12345, "tid":9, "ts":1730498843377535, "dur":129724, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":10, "ts":1730498843337478, "dur":2374, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":10, "ts":1730498843339857, "dur":247, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":10, "ts":1730498843340104, "dur":3159, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":10, "ts":1730498843343280, "dur":162, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win32_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
-,{ "pid":12345, "tid":10, "ts":1730498843343268, "dur":175, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/K 7/PRU212/Endless Skiing/Build/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
-,{ "pid":12345, "tid":10, "ts":1730498843361593, "dur":1973, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/System.Security.dll" }}
-,{ "pid":12345, "tid":10, "ts":1730498843363655, "dur":3267, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.GridModule.dll" }}
-,{ "pid":12345, "tid":10, "ts":1730498843374674, "dur":1808, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":10, "ts":1730498843366959, "dur":9734, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
-,{ "pid":12345, "tid":10, "ts":1730498843376724, "dur":130510, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1730498843337527, "dur":2343, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1730498843339874, "dur":167, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1730498843340042, "dur":3208, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1730498843343282, "dur":154, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1730498843343437, "dur":74, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D:/K 7/PRU212/Endless Skiing/Build/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
-,{ "pid":12345, "tid":11, "ts":1730498843364128, "dur":3124, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/System.IO.Compression.FileSystem.dll" }}
-,{ "pid":12345, "tid":11, "ts":1730498843367296, "dur":10323, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
-,{ "pid":12345, "tid":11, "ts":1730498843377636, "dur":129622, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":12, "ts":1730498843337268, "dur":2528, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":12, "ts":1730498843339800, "dur":3421, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":12, "ts":1730498843343798, "dur":224, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
-,{ "pid":12345, "tid":12, "ts":1730498843344026, "dur":101, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win\\Data\\boot.config" }}
-,{ "pid":12345, "tid":12, "ts":1730498843344147, "dur":102, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win\\Data\\ScriptingAssemblies.json" }}
-,{ "pid":12345, "tid":12, "ts":1730498843344419, "dur":99, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\K 7\\PRU212\\Endless Skiing\\Endless Skiing\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
-,{ "pid":12345, "tid":12, "ts":1730498843344519, "dur":119, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\K 7\\PRU212\\Endless Skiing\\Endless Skiing\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
-,{ "pid":12345, "tid":12, "ts":1730498843344639, "dur":60, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\K 7\\PRU212\\Endless Skiing\\Endless Skiing\\Library\\Bee\\PlayerScriptAssemblies\\Unity.AI.Navigation.dll" }}
-,{ "pid":12345, "tid":12, "ts":1730498843344700, "dur":267, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\K 7\\PRU212\\Endless Skiing\\Endless Skiing\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
-,{ "pid":12345, "tid":12, "ts":1730498843344968, "dur":186, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\K 7\\PRU212\\Endless Skiing\\Endless Skiing\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
-,{ "pid":12345, "tid":12, "ts":1730498843345184, "dur":59, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Player92b939f5-inputdata.json" }}
-,{ "pid":12345, "tid":12, "ts":1730498843344024, "dur":1272, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
-,{ "pid":12345, "tid":12, "ts":1730498843345659, "dur":158946, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
-,{ "pid":12345, "tid":12, "ts":1730498843505571, "dur":897, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
-,{ "pid":12345, "tid":12, "ts":1730498843505570, "dur":900, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/boot.config" }}
-,{ "pid":12345, "tid":12, "ts":1730498843506489, "dur":692, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/boot.config" }}
-,{ "pid":12345, "tid":13, "ts":1730498843337572, "dur":2326, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":13, "ts":1730498843339899, "dur":3353, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":13, "ts":1730498843343286, "dur":105, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":13, "ts":1730498843352457, "dur":1863, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/System.ServiceModel.Internals.dll" }}
-,{ "pid":12345, "tid":13, "ts":1730498843354397, "dur":1413, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
-,{ "pid":12345, "tid":13, "ts":1730498843355850, "dur":1468, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.UmbraModule.dll" }}
-,{ "pid":12345, "tid":13, "ts":1730498843357356, "dur":1917, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.TerrainModule.dll" }}
-,{ "pid":12345, "tid":13, "ts":1730498843359321, "dur":1344, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
-,{ "pid":12345, "tid":13, "ts":1730498843360710, "dur":1838, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.PhysicsModule.dll" }}
-,{ "pid":12345, "tid":13, "ts":1730498843362586, "dur":3230, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
-,{ "pid":12345, "tid":13, "ts":1730498843365863, "dur":4030, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.CoreModule.dll" }}
-,{ "pid":12345, "tid":13, "ts":1730498843369924, "dur":11470, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/ScriptingAssemblies.json" }}
-,{ "pid":12345, "tid":13, "ts":1730498843381412, "dur":125833, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":14, "ts":1730498843337611, "dur":2311, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":14, "ts":1730498843339923, "dur":3303, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":14, "ts":1730498843343729, "dur":203, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
-,{ "pid":12345, "tid":14, "ts":1730498843344171, "dur":1866, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/app.info" }}
-,{ "pid":12345, "tid":14, "ts":1730498843346065, "dur":1069, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/System.Drawing.dll" }}
-,{ "pid":12345, "tid":14, "ts":1730498843347167, "dur":1313, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/System.Core.dll" }}
-,{ "pid":12345, "tid":14, "ts":1730498843348527, "dur":891, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/System.ComponentModel.Composition.dll" }}
-,{ "pid":12345, "tid":14, "ts":1730498843349451, "dur":882, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.UI.dll" }}
-,{ "pid":12345, "tid":14, "ts":1730498843350364, "dur":806, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/Unity.Timeline.dll" }}
-,{ "pid":12345, "tid":14, "ts":1730498843351200, "dur":1133, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.XRModule.dll" }}
-,{ "pid":12345, "tid":14, "ts":1730498843352369, "dur":1198, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.VideoModule.dll" }}
-,{ "pid":12345, "tid":14, "ts":1730498843353608, "dur":1285, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
-,{ "pid":12345, "tid":14, "ts":1730498843354950, "dur":200, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":14, "ts":1730498843355243, "dur":1205, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
-,{ "pid":12345, "tid":14, "ts":1730498843356481, "dur":2586, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.UIElementsModule.dll" }}
-,{ "pid":12345, "tid":14, "ts":1730498843359103, "dur":1072, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.StreamingModule.dll" }}
-,{ "pid":12345, "tid":14, "ts":1730498843360229, "dur":1601, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.PropertiesModule.dll" }}
-,{ "pid":12345, "tid":14, "ts":1730498843361876, "dur":2817, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
-,{ "pid":12345, "tid":14, "ts":1730498843364783, "dur":3683, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.DirectorModule.dll" }}
-,{ "pid":12345, "tid":14, "ts":1730498843368500, "dur":1875, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/sharedassets1.assets.resS" }}
-,{ "pid":12345, "tid":14, "ts":1730498843370427, "dur":1200, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Resources/unity_builtin_extra" }}
-,{ "pid":12345, "tid":14, "ts":1730498843371662, "dur":1351, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/level2" }}
-,{ "pid":12345, "tid":14, "ts":1730498843373040, "dur":3297, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/level0" }}
-,{ "pid":12345, "tid":14, "ts":1730498843376350, "dur":130893, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":15, "ts":1730498843337645, "dur":2289, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":15, "ts":1730498843339935, "dur":3307, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":15, "ts":1730498843343289, "dur":97, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":15, "ts":1730498843351983, "dur":1019, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/System.Transactions.dll" }}
-,{ "pid":12345, "tid":15, "ts":1730498843353040, "dur":1639, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.VRModule.dll" }}
-,{ "pid":12345, "tid":15, "ts":1730498843354716, "dur":2066, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
-,{ "pid":12345, "tid":15, "ts":1730498843356836, "dur":2373, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
-,{ "pid":12345, "tid":15, "ts":1730498843359246, "dur":1456, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
-,{ "pid":12345, "tid":15, "ts":1730498843360764, "dur":1512, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.Physics2DModule.dll" }}
-,{ "pid":12345, "tid":15, "ts":1730498843362315, "dur":2809, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
-,{ "pid":12345, "tid":15, "ts":1730498843365168, "dur":4521, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
-,{ "pid":12345, "tid":15, "ts":1730498843369716, "dur":2530, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/sharedassets0.assets" }}
-,{ "pid":12345, "tid":15, "ts":1730498843372284, "dur":1077, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/level1.resS" }}
-,{ "pid":12345, "tid":15, "ts":1730498843373405, "dur":2036, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":15, "ts":1730498843375451, "dur":1598, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/globalgamemanagers.assets" }}
-,{ "pid":12345, "tid":15, "ts":1730498843377064, "dur":130207, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":16, "ts":1730498843337683, "dur":2256, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":16, "ts":1730498843339940, "dur":3304, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":16, "ts":1730498843343298, "dur":109, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win32_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
-,{ "pid":12345, "tid":16, "ts":1730498843343288, "dur":120, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/K 7/PRU212/Endless Skiing/Build/MonoBleedingEdge/etc/mono/2.0/web.config" }}
-,{ "pid":12345, "tid":16, "ts":1730498843343420, "dur":75, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D:/K 7/PRU212/Endless Skiing/Build/MonoBleedingEdge/etc/mono/2.0/web.config" }}
-,{ "pid":12345, "tid":16, "ts":1730498843363307, "dur":3111, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/System.Net.Http.dll" }}
-,{ "pid":12345, "tid":16, "ts":1730498843366473, "dur":3029, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
-,{ "pid":12345, "tid":16, "ts":1730498843369538, "dur":2059, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/sharedassets0.assets.resS" }}
-,{ "pid":12345, "tid":16, "ts":1730498843371774, "dur":1455, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/level2.resS" }}
-,{ "pid":12345, "tid":16, "ts":1730498843373260, "dur":3906, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/K 7/PRU212/Endless Skiing/Build/EndlessSkiingGame_Data/globalgamemanagers.assets.resS" }}
-,{ "pid":12345, "tid":16, "ts":1730498843377195, "dur":130065, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1730498843510248, "dur":954, "ph":"X", "name": "ProfilerWriteOutput" }
+,{ "pid":12345, "tid":0, "ts":1730525967852482, "dur":19507, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1730525967871998, "dur":66, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1730525967872087, "dur":469, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1730525967872786, "dur":63, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/level1.resS" }}
+,{ "pid":12345, "tid":0, "ts":1730525967873061, "dur":73, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":0, "ts":1730525967872595, "dur":3950, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1730525967876546, "dur":1264933, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1730525969141480, "dur":449, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1730525969142106, "dur":1544, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1730525967872773, "dur":3782, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1730525967876559, "dur":4734, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1730525967883314, "dur":618, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":1, "ts":1730525967883948, "dur":285, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win\\Data\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1730525967884248, "dur":11073, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win\\Data\\RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":1, "ts":1730525967895323, "dur":246, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":1, "ts":1730525967895638, "dur":68, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730525967895715, "dur":975, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730525967896760, "dur":133, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730525967897050, "dur":507, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Minh Khoi\\PRU212---Endless-Skiing\\Endless Skiing\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730525967897559, "dur":210, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Minh Khoi\\PRU212---Endless-Skiing\\Endless Skiing\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730525967897771, "dur":208, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Minh Khoi\\PRU212---Endless-Skiing\\Endless Skiing\\Library\\Bee\\PlayerScriptAssemblies\\Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730525967897981, "dur":643, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Minh Khoi\\PRU212---Endless-Skiing\\Endless Skiing\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730525967898626, "dur":360, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Minh Khoi\\PRU212---Endless-Skiing\\Endless Skiing\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730525967898988, "dur":173, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\Facades\\netstandard.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730525967899162, "dur":298, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\Mono.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730525967899461, "dur":329, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730525967899792, "dur":248, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Configuration.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730525967900041, "dur":1153, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730525967901196, "dur":110, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730525967901308, "dur":2083, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Data.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730525967903393, "dur":497, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Drawing.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730525967903892, "dur":119, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730525967904012, "dur":97, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730525967904110, "dur":176, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730525967904288, "dur":170, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Net.Http.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730525967904459, "dur":187, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Numerics.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730525967904648, "dur":1080, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730525967905742, "dur":5500, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\mscorlib.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730525967911245, "dur":125, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Player5f8b0280-inputdata.json" }}
+,{ "pid":12345, "tid":1, "ts":1730525967911425, "dur":75306, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.BuildTools.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730525967986736, "dur":360, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730525967987097, "dur":172989, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.CSharpSupport.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730525968160088, "dur":144, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.DotNet.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730525968160233, "dur":615, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.NativeProgramSupport.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730525968160849, "dur":159, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.Stevedore.Program.exe" }}
+,{ "pid":12345, "tid":1, "ts":1730525968161009, "dur":82, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.TinyProfiler2.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730525968161092, "dur":71667, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.Toolchain.GNU.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730525968232761, "dur":35186, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.Toolchain.LLVM.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730525968267964, "dur":144850, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.Toolchain.VisualStudio.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730525968412816, "dur":95466, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.Toolchain.Xcode.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730525968508283, "dur":130, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.Tools.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730525968508414, "dur":101, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.TundraBackend.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730525968508516, "dur":65, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.VisualStudioSolution.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730525968508582, "dur":69, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\Tools\\BuildPipeline\\BeeBuildProgramCommon.Data.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730525968508652, "dur":73, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\Tools\\BuildPipeline\\BeeBuildProgramCommon.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730525968508727, "dur":154, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\Tools\\BuildPipeline\\BeeLocalCacheTool.exe" }}
+,{ "pid":12345, "tid":1, "ts":1730525968508882, "dur":2888, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\Tools\\BuildPipeline\\Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730525968511771, "dur":122, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\Tools\\BuildPipeline\\NiceIO.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730525968511915, "dur":79, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\Tools\\BuildPipeline\\PlayerBuildProgramLibrary.Data.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730525968511994, "dur":141, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\Tools\\BuildPipeline\\PlayerBuildProgramLibrary.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730525968512136, "dur":93, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\Tools\\BuildPipeline\\ScriptCompilationBuildProgram.Data.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730525968512230, "dur":86, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\Tools\\BuildPipeline\\ScriptCompilationBuildProgram.exe" }}
+,{ "pid":12345, "tid":1, "ts":1730525968512316, "dur":134249, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\Tools\\BuildPipeline\\SharpYaml.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730525968646568, "dur":35691, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.Api.Attributes.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730525968682261, "dur":85834, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.Cecil.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730525968768097, "dur":73029, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.Cecil.Mdb.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730525968841128, "dur":29550, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.Cecil.Pdb.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730525968870680, "dur":46323, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.Cecil.Rocks.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730525968917004, "dur":94, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.IL2CPP.Api.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730525968917099, "dur":103, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.IL2CPP.Bee.BuildLogic.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730525968917203, "dur":59, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.IL2CPP.Bee.IL2CPPExeCompileCppBuildProgram.Data.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730525968917263, "dur":58, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.Linker.Api.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730525968917325, "dur":99946, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.Options.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730525967883946, "dur":1133327, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1730525969017935, "dur":118705, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1730525969140409, "dur":98, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1730525969140408, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1730525969140523, "dur":917, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1730525967873204, "dur":3385, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1730525967876593, "dur":808, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1730525967877402, "dur":3907, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1730525967881330, "dur":12931, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win32_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":2, "ts":1730525967881310, "dur":12953, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Minh Khoi/PRU212---Endless-Skiing/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1730525967894707, "dur":1419, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1730525967896211, "dur":159, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":2, "ts":1730525967896912, "dur":5227, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":2, "ts":1730525967902288, "dur":245, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":2, "ts":1730525967902286, "dur":248, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":2, "ts":1730525967902622, "dur":1379, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":2, "ts":1730525967904177, "dur":3534, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":2, "ts":1730525967904176, "dur":3536, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":2, "ts":1730525967907726, "dur":6149, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":2, "ts":1730525967913972, "dur":3446, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":2, "ts":1730525967917483, "dur":2498, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1730525967920051, "dur":3279, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1730525967923419, "dur":2519, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1730525967926003, "dur":2929, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1730525967929075, "dur":2348, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1730525967931519, "dur":2682, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1730525967934268, "dur":2571, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1730525967936924, "dur":3010, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1730525967940003, "dur":3247, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1730525967943318, "dur":1432, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":2, "ts":1730525967944837, "dur":3570, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":2, "ts":1730525967948491, "dur":3395, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1730525967951948, "dur":2242, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/level0.resS" }}
+,{ "pid":12345, "tid":2, "ts":1730525967954258, "dur":2491, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":2, "ts":1730525967957297, "dur":1184175, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1730525967872887, "dur":3676, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1730525967876566, "dur":881, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1730525967877447, "dur":3864, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1730525967881315, "dur":293, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Minh Khoi/PRU212---Endless-Skiing/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1730525967893075, "dur":2792, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1730525967895919, "dur":176, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Minh Khoi/PRU212---Endless-Skiing/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1730525967896299, "dur":1704, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1730525967898152, "dur":2827, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.dll" }}
+,{ "pid":12345, "tid":3, "ts":1730525967898150, "dur":2830, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":3, "ts":1730525967901200, "dur":2166, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":3, "ts":1730525967903411, "dur":294, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":3, "ts":1730525967903410, "dur":296, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":3, "ts":1730525967903725, "dur":3586, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":3, "ts":1730525967907414, "dur":3812, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":3, "ts":1730525967911304, "dur":2801, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1730525967914204, "dur":2971, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":3, "ts":1730525967919673, "dur":224, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1730525967917237, "dur":2685, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1730525967920041, "dur":1746, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1730525967921887, "dur":2907, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1730525967924951, "dur":3078, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1730525967928125, "dur":2954, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1730525967931146, "dur":3361, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1730525967934773, "dur":2309, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1730525967937148, "dur":3214, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1730525967940430, "dur":3224, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1730525967943717, "dur":2245, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":3, "ts":1730525967946029, "dur":3905, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1730525967949996, "dur":5122, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/level2" }}
+,{ "pid":12345, "tid":3, "ts":1730525967955169, "dur":1186312, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1730525967873017, "dur":3555, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1730525967876576, "dur":882, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1730525967877458, "dur":3855, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1730525967881323, "dur":10481, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win32_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1730525967881314, "dur":10502, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Minh Khoi/PRU212---Endless-Skiing/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1730525967893043, "dur":2864, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1730525967895960, "dur":70489, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win32_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":4, "ts":1730525967895957, "dur":70495, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Minh Khoi/PRU212---Endless-Skiing/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":4, "ts":1730525967966732, "dur":1069, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":4, "ts":1730525967967849, "dur":1173651, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1730525967873103, "dur":3479, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1730525967876585, "dur":910, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1730525967877495, "dur":3820, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1730525967881315, "dur":285, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Minh Khoi/PRU212---Endless-Skiing/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1730525967892465, "dur":3530, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1730525967896063, "dur":103783, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win32_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":5, "ts":1730525967896061, "dur":103786, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Minh Khoi/PRU212---Endless-Skiing/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":5, "ts":1730525967999930, "dur":2633, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":5, "ts":1730525968002602, "dur":1138875, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1730525967873336, "dur":3262, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1730525967876602, "dur":952, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1730525967877555, "dur":3750, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1730525967881310, "dur":160, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Minh Khoi/PRU212---Endless-Skiing/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":6, "ts":1730525967882948, "dur":2475, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":6, "ts":1730525967885486, "dur":10091, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win32_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1730525967885484, "dur":10095, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Minh Khoi/PRU212---Endless-Skiing/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1730525967895605, "dur":3765, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1730525967899484, "dur":3374, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Xml.dll" }}
+,{ "pid":12345, "tid":6, "ts":1730525967899483, "dur":3378, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":6, "ts":1730525967902880, "dur":4824, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":6, "ts":1730525967907782, "dur":4068, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":6, "ts":1730525967911911, "dur":3247, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":6, "ts":1730525967915220, "dur":3053, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":6, "ts":1730525967920239, "dur":73, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1730525967918338, "dur":2012, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1730525967920437, "dur":1898, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1730525967922417, "dur":3215, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1730525967925752, "dur":3596, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1730525967929618, "dur":2923, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1730525967932610, "dur":2937, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1730525967935680, "dur":2610, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1730525967938595, "dur":3493, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1730525967942196, "dur":98, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1730525967942298, "dur":3669, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1730525967946120, "dur":4877, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":6, "ts":1730525967951063, "dur":3087, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/level1.resS" }}
+,{ "pid":12345, "tid":6, "ts":1730525967954211, "dur":2470, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":6, "ts":1730525967956796, "dur":1184680, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1730525967873413, "dur":3196, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1730525967876613, "dur":897, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1730525967877511, "dur":3805, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1730525967881317, "dur":318, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Minh Khoi/PRU212---Endless-Skiing/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1730525967901707, "dur":2057, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1730525967903851, "dur":401, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1730525967903850, "dur":403, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1730525967904272, "dur":5593, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1730525967909970, "dur":4741, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":7, "ts":1730525967914805, "dur":2755, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":7, "ts":1730525967917644, "dur":3469, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1730525967921205, "dur":1910, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1730525967923190, "dur":3217, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1730525967926485, "dur":3274, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1730525967929993, "dur":2923, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1730525967933005, "dur":2511, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1730525967935586, "dur":3793, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1730525967939542, "dur":2956, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1730525967942558, "dur":273944, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win32_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":7, "ts":1730525967942556, "dur":273947, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Minh Khoi/PRU212---Endless-Skiing/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":7, "ts":1730525968216524, "dur":7908, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":7, "ts":1730525968224467, "dur":917016, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1730525967873518, "dur":3108, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1730525967876631, "dur":525, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1730525967877156, "dur":4151, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1730525967881310, "dur":159, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Minh Khoi/PRU212---Endless-Skiing/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":8, "ts":1730525967883039, "dur":3302, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":8, "ts":1730525967886399, "dur":114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Minh Khoi/PRU212---Endless-Skiing/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1730525967886590, "dur":1893, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1730525967888531, "dur":12020, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win32_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":8, "ts":1730525967888529, "dur":12023, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Minh Khoi/PRU212---Endless-Skiing/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1730525967900579, "dur":2160, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1730525967902801, "dur":176, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Transactions.dll" }}
+,{ "pid":12345, "tid":8, "ts":1730525967902786, "dur":192, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":8, "ts":1730525967902994, "dur":2174, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":8, "ts":1730525967905234, "dur":3517, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":8, "ts":1730525967908856, "dur":3161, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":8, "ts":1730525967915980, "dur":128, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1730525967912095, "dur":4028, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":8, "ts":1730525967916506, "dur":4549, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":8, "ts":1730525967921174, "dur":2066, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1730525967923334, "dur":2717, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1730525967926189, "dur":3133, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1730525967929399, "dur":3168, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1730525967932772, "dur":3518, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1730525967936368, "dur":2736, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1730525967939197, "dur":3257, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1730525967942524, "dur":3781, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1730525967946442, "dur":2817, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":8, "ts":1730525967949318, "dur":3946, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/resources.assets" }}
+,{ "pid":12345, "tid":8, "ts":1730525967953333, "dur":4329, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1730525967957708, "dur":1183799, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1730525967873587, "dur":3049, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1730525967876637, "dur":4666, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1730525967881333, "dur":40742, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win32_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":9, "ts":1730525967881310, "dur":40766, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Minh Khoi/PRU212---Endless-Skiing/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":9, "ts":1730525967922468, "dur":1304, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":9, "ts":1730525967923873, "dur":2653, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1730525967926594, "dur":3526, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1730525967930285, "dur":3234, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1730525967933587, "dur":2347, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1730525967936000, "dur":2591, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1730525967941313, "dur":96, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1730525967938659, "dur":2763, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1730525967941729, "dur":3111, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1730525967944911, "dur":11044, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":9, "ts":1730525967956015, "dur":1185459, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1730525967873442, "dur":3176, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1730525967876622, "dur":830, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1730525967877452, "dur":3867, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1730525967881340, "dur":10812, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win32_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":10, "ts":1730525967881319, "dur":10835, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Minh Khoi/PRU212---Endless-Skiing/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":10, "ts":1730525967892179, "dur":1404, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":10, "ts":1730525967893691, "dur":422, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Minh Khoi/PRU212---Endless-Skiing/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":10, "ts":1730525967895969, "dur":65, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1730525967894191, "dur":1852, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":10, "ts":1730525967896106, "dur":68, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\WindowsPlayer.exe" }}
+,{ "pid":12345, "tid":10, "ts":1730525967896106, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame.exe" }}
+,{ "pid":12345, "tid":10, "ts":1730525967897973, "dur":51, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1730525967896210, "dur":1824, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame.exe" }}
+,{ "pid":12345, "tid":10, "ts":1730525967898107, "dur":8040, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\mscorlib.dll" }}
+,{ "pid":12345, "tid":10, "ts":1730525967898105, "dur":8043, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":10, "ts":1730525967906171, "dur":6579, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":10, "ts":1730525967915981, "dur":139, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1730525967912817, "dur":3312, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":10, "ts":1730525967918959, "dur":72, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1730525967916207, "dur":2849, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":10, "ts":1730525967919159, "dur":2363, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1730525967921594, "dur":3060, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1730525967924740, "dur":3507, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1730525967928368, "dur":2097, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1730525967930529, "dur":3644, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1730525967934247, "dur":2235, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1730525967936556, "dur":2619, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1730525967939237, "dur":2768, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1730525967942187, "dur":362, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1730525967942551, "dur":4159, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1730525967947071, "dur":2156, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":10, "ts":1730525967949321, "dur":3191, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/level2.resS" }}
+,{ "pid":12345, "tid":10, "ts":1730525967952582, "dur":3112, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/level0" }}
+,{ "pid":12345, "tid":10, "ts":1730525967955738, "dur":1185780, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1730525967873614, "dur":3030, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1730525967876645, "dur":4656, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1730525967881347, "dur":102611, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win32_player_nondevelopment_mono\\UnityCrashHandler32.exe" }}
+,{ "pid":12345, "tid":11, "ts":1730525967881309, "dur":102651, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Minh Khoi/PRU212---Endless-Skiing/UnityCrashHandler32.exe" }}
+,{ "pid":12345, "tid":11, "ts":1730525967983980, "dur":1302, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/UnityCrashHandler32.exe" }}
+,{ "pid":12345, "tid":11, "ts":1730525967985322, "dur":1156168, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1730525967873658, "dur":2997, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1730525967876655, "dur":4645, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1730525967881316, "dur":75, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1730525967882205, "dur":3145, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/app.info" }}
+,{ "pid":12345, "tid":12, "ts":1730525967885353, "dur":384, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Minh Khoi/PRU212---Endless-Skiing/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":12, "ts":1730525967886017, "dur":1969, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":12, "ts":1730525967888107, "dur":146, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Minh Khoi/PRU212---Endless-Skiing/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":12, "ts":1730525967888541, "dur":1340, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":12, "ts":1730525967889957, "dur":122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Minh Khoi/PRU212---Endless-Skiing/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":12, "ts":1730525967890309, "dur":1690, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":12, "ts":1730525967892063, "dur":11089, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win32_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1730525967892062, "dur":11091, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Minh Khoi/PRU212---Endless-Skiing/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1730525967903205, "dur":1485, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1730525967904774, "dur":2632, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":12, "ts":1730525967907530, "dur":3723, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":12, "ts":1730525967911337, "dur":2871, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":12, "ts":1730525967914268, "dur":2344, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":12, "ts":1730525967919664, "dur":180, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1730525967916675, "dur":3205, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1730525967920782, "dur":120, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1730525967920906, "dur":3595, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1730525967924568, "dur":4423, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1730525967929141, "dur":2791, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1730525967932010, "dur":3263, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1730525967935490, "dur":102, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1730525967935596, "dur":2745, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1730525967938421, "dur":2767, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1730525967941369, "dur":50, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1730525967941425, "dur":3044, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1730525967944535, "dur":2004, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":12, "ts":1730525967950780, "dur":52, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1730525967946603, "dur":4245, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":12, "ts":1730525967951129, "dur":3131, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame_Data/level1" }}
+,{ "pid":12345, "tid":12, "ts":1730525967954307, "dur":1187173, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1730525969145765, "dur":1198, "ph":"X", "name": "ProfilerWriteOutput" }
 ,

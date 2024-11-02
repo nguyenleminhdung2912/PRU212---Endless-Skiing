@@ -3,6 +3,7 @@
 public class Coin : MonoBehaviour {
 
     [SerializeField] float turnSpeed = 90f;
+    [SerializeField] AudioClip pickupSound;
 
     private void OnTriggerEnter (Collider other)
     {
@@ -18,6 +19,9 @@ public class Coin : MonoBehaviour {
 
         // Add to the player's score
         GameManager.inst.IncrementScore();
+
+        AudioSource.PlayClipAtPoint(pickupSound, transform.position);
+
 
         // Destroy this coin object
         Destroy(gameObject);

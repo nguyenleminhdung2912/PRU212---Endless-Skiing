@@ -141,6 +141,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   turnSpeed: 60
+  pickupSound: {fileID: 8300000, guid: 99d95e6751843194091c0f546bc5445f, type: 3}
 --- !u!65 &-5381884086370464623
 BoxCollider:
   m_ObjectHideFlags: 0

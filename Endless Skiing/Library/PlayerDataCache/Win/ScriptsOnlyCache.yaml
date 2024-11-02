@@ -118,6 +118,10 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
     - Class: 84
       Script: {instanceID: 0}
     - Class: 89
@@ -184,6 +188,10 @@ ScriptsOnlyBuild:
     - Class: 49
       Script: {instanceID: 0}
     - Class: 81
+      Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
       Script: {instanceID: 0}
     - Class: 84
       Script: {instanceID: 0}
@@ -269,6 +277,10 @@ ScriptsOnlyBuild:
     - Class: 65
       Script: {instanceID: 0}
     - Class: 81
+      Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
       Script: {instanceID: 0}
     - Class: 89
       Script: {instanceID: 0}
@@ -405,7 +417,7 @@ ScriptsOnlyBuild:
     className: HorizontalLayoutGroup
   - hash:
       serializedVersion: 2
-      Hash: ba98108e51e1e563793233e6dfcd1a32
+      Hash: 1a41a594a4e5baf3e17b6635d13a345c
     assemblyName: Assembly-CSharp
     namespaceName: 
     className: Obstacle
@@ -417,7 +429,7 @@ ScriptsOnlyBuild:
     className: SkewTextExample
   - hash:
       serializedVersion: 2
-      Hash: 859be2b439d95a04a3b9b0a72e7d35d7
+      Hash: 5e885dffc34b20aa46cc8cdb84498448
     assemblyName: Assembly-CSharp
     namespaceName: 
     className: Coin
@@ -1062,4 +1074,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/GameMenuScene.unity
   - Assets/Scenes/GameScene.unity
   - Assets/Scenes/GameEndScene.unity
-  playerPath: "D:/K\xEC 7/PRU212/Endless Skiing/Build/EndlessSkiingGame.exe"
+  playerPath: C:/Users/Minh Khoi/PRU212---Endless-Skiing/EndlessSkiingGame.exe
